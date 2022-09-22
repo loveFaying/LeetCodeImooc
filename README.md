@@ -1,4 +1,4 @@
-# LeetCodeImooc(Done)
+# LeetCodeImooc
 - 00 Other Algorithm
 - 01 Array
 - 02 Hash Table
